@@ -1,5 +1,11 @@
 # Hi, I'm Tiernan (T-Lind)!
 
+
+<div style="display: flex; justify-content: center;">
+  <img src="angularized_300.png" style="height:190px" alt="T-Lind" />
+</div>
+
+
 Welcome to my GitHub! I'm a dual-degree student at Texas A&M University, pursuing two BS degrees--**Computer Science** and **Physics** (3.84 GPA). With experience in **machine learning**, **AI**, and **vector search technologies**, I’m passionate about pushing the boundaries of machine intelligence.
 
 A quick few things about me:
@@ -12,6 +18,4 @@ A quick few things about me:
 
 Check out my website at [t-lind.github.io](https://t-lind.github.io/) for more information. Trust me, it's worth it.
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=T-Lind" style="height:160px" alt="T-Lind" />
-</div>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=T-Lind)](https://git.io/streak-stats)
