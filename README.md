@@ -18,4 +18,4 @@ A quick few things about me:
 
 Check out my website at [t-lind.github.io](https://t-lind.github.io/) for more information. Trust me, it's worth it.
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=T-Lind)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=T-Lind" alt="GitHub Streak" /></a>
